@@ -5,7 +5,7 @@
 - 🔭 I’m currently a Software Engineering Undergraduate.
 - 🌱 I’m interested in Programming, Web development and Android App Development.
 - 👀 I'm currently seeking for any opportunity that I can learn while coding.
-- ⚡ Fun fact: I love coding and traveling.
+- ⚡ Interests: I love coding and traveling.
 
 ### Connect with me:
 
