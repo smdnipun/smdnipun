@@ -42,6 +42,7 @@
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Firebase]: https://firebase.google.com/
 [Java]: https://www.java.com/en/
+[Kotlin]: https://kotlinlang.org/docs/android-overview.html
 [MySQL]: https://www.mysql.com/
 
 <!--
