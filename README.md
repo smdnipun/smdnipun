@@ -2,6 +2,8 @@
 
 <hr/>
 
+##I am a Developer,Student and a Self-learner!!!
+
 - 🔭 I’m currently a Software Engineering Undergraduate.
 - 🌱 I’m interested in Programming, Web development and Android App Development.
 - 👀 I'm currently seeking for any opportunity that I can learn while coding.
