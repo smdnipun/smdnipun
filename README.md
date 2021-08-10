@@ -24,7 +24,7 @@
 [<img align="left" alt="BootStrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/>][BootStrap]
 [<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>][JavaScript]
 [<img align="left" alt="Java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][Java]
-[<img align="left" alt="Kotlin" width="30px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlin-ar21.svg"/>][Kotlin]
+[<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>][Kotlin]
 [<img align="left" alt="Firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][Firebase]
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
 
