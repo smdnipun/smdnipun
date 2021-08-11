@@ -1,6 +1,5 @@
 # Hello 👋, I'm Nipun 
 
-<hr/>
 
 ## I am a Developer,Student and a Self-learner!!!
 
