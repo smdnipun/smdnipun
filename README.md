@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://www.freepnglogos.com/uploads/linkedin-black-logo-19.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />][instagram]
 [<img align="left" alt="codeSTACKr | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
