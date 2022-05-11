@@ -1,7 +1,7 @@
 # Hello 👋, I'm Nipun 
 
 
-## I am a Developer,Student and a Self-learner!!!
+## I am a Developer,Student and a Motivated Self-Learner!!!
 
 - 🔭 I’m currently a Software Engineering Undergraduate.
 - 🌱 I’m interested in Programming, Web development and Android App Development.
